@@ -11,6 +11,7 @@
 9. Use state hook - to store all Api data 
 10. Image card component creation 
 11. pass the dynamice data using map function 
-12. Destrucring object data 
-13. Shimmerui
-14. Error Page 
+12. Destrucring object data
+13. Search feature-fetching the data based on user input query
+14. Shimmerui
+15. Error Page 
