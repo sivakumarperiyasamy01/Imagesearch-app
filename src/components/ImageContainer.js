@@ -54,9 +54,7 @@ const ImageContainer = () => {
 
   return (
     <div>
-      <img  alt="logo"src=""></img>
     <Header/>
-    
     {images===null?<Shimmer/>:
       images.length===0?<ErroPage/>:
       <div className="flex flex-wrap justify-center">
